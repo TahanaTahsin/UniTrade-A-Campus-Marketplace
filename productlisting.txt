@@ -1,0 +1,20 @@
+Card Serial: TC-02
+
+Card Title: Product Listing
+
+Description:
+Allow students to create and manage product listings
+with product name, description, price, category, and image.
+
+Assigned To:
+Raihan
+
+Status:
+Completed
+
+GitHub Branch:
+feature/Raihan-chat
+
+Notes:
+Implemented the product listing feature and pushed the changes
+to the feature/ProductListing branch.
