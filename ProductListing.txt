@@ -1,0 +1,12 @@
+UniTrade - Product Listing
+
+Feature:
+Students can create a product listing.
+
+Product information:
+- Product title
+- Category
+- Price
+- Description
+- Image
+- Preferred pickup location
